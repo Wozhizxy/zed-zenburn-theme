@@ -1,0 +1,7 @@
+id = "zenburn-theme"
+name = "Zenburn"
+version = "0.1.0"
+schema_version = 1
+authors = ["Wozhizxy"]
+description = "Dark color themes for Zed. Includes Zenburn (based on the classic Vim theme by Jani Nurminen) and Pale Fire (based on the VS Code theme by matklad)."
+repository = "https://github.com/Wozhizxy/zed-zenburn-theme"
